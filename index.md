@@ -8,7 +8,7 @@ layout: home
 title: "Victor Mutuku"
 author_profile: true
 ---
-# Curriculum Vitae-Victor Mutuku
+# Victor Mutuku
 ---
 excerpt: "Data Analyst • Software Developer • System Administrator"
 header:
