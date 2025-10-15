@@ -7,6 +7,9 @@ author_profile: true
 layout: home
 title: "Victor Mutuku"
 author_profile: true
+---
+# Curriculum Vitae-Victor Mutuku
+---
 excerpt: "Data Analyst • Software Developer • System Administrator"
 header:
   overlay_color: "#000"
