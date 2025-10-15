@@ -38,9 +38,11 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 
 ## 📫 Connect With Me
 
+- ## 📫 Connect With Me
+
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐙 [GitHub](https://github.com/Victor-Mutuku)  
-- ✉️ [Email Me](vkiokomutuku@gmail.com)
+- ✉️ [Email Me](mailto:vkiokomutuku@gmail.com)
 
 ---
 
