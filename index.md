@@ -36,18 +36,18 @@ Passionate about leveraging technology to solve real-world problems and enhance 
 
 ## 🎓 Education
 
-- 🏫 **Machakos University**  
+-  **Machakos University**  
   **Bachelor of Science in Statistics and Programming**  
 
 ---
 
 ## 💻 Skills & Expertise
 
-- 📊 **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI  
-- 💻 **Programming:** Python, C#, HTML/CSS  
-- ⚙️ **System Administration:** Linux/Windows server management, networking, troubleshooting  
-- 🧠 **Other Skills:** Data visualization, automation, process optimization, technical support  
-- 📈 **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Tableau
+-  **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI  
+-  **Programming:** Python, C#, HTML/CSS  
+-  **System Administration:** Linux/Windows server management, networking, troubleshooting  
+-  **Other Skills:** Data visualization, automation, process optimization, technical support  
+-  **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Tableau
 
 ---
 
