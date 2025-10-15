@@ -6,8 +6,7 @@ layout: home
 author_profile: true
 ---
 #Curriculum Vitae-Victor Mutuku
----
----
+----
 layout: home
 title: "Victor Mutuku"
 author_profile: true
@@ -39,16 +38,16 @@ Passionate about leveraging technology to solve real-world problems and enhance 
 
 - 🏫 **Machakos University**  
   **Bachelor of Science in Statistics and Programming**  
- 
 
 ---
 
 ## 💻 Skills & Expertise
 
 - 📊 **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI  
-- 💻 **Programming:** Python, JavaScript, R, HTML/CSS  
+- 💻 **Programming:** Python, C#, HTML/CSS  
 - ⚙️ **System Administration:** Linux/Windows server management, networking, troubleshooting  
-- 🧠 **Other Skills:** Data visualization, automation, process optimization, technical support
+- 🧠 **Other Skills:** Data visualization, automation, process optimization, technical support  
+- 📈 **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Tableau
 
 ---
 
@@ -71,4 +70,4 @@ Below you’ll find my most recent blog posts on data analytics, software develo
 
 ---
 
-> 🌟 *“Turning data into insight and code into impact.”*  
+> 🌟 *“Turning data into insight and code into impact.”*
