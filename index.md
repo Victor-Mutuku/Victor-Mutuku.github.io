@@ -4,8 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
----
-#Curriculum Vitae-Victor Mutuku
 ----
 layout: home
 title: "Victor Mutuku"
