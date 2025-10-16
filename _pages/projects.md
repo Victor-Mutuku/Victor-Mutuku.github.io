@@ -15,8 +15,8 @@ I cleaned the data, and organized it into a pandas DataFrame
  [🔗 View Code](https://colab.research.google.com/drive/14nJUrfQ7MkBUJNrjeQy4EuQl7ZMv9u2d?usp=sharing)
  
  
- ## (3).Netflix Data Wrangling in Python
- 
+## (3).Netflix Data Wrangling in Python
+
  I wrangled the Netflix dataset by exploring its structure, converting and restructuring key fields, handling duplicates and missing values, fixing logical errors, and removing anomalies
  
   [🔗 View Code](https://www.kaggle.com/code/victorkiokomutuku/victor-mutuku-cs-da02-25021)
