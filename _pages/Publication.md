@@ -1,6 +1,7 @@
 title: "Publication"
 permalink: /publication/
 ---
-# Publicatin
+# Publication
 Here is My Collection:
-🔗 C# MVC Website
+🔗 C# MVC Websit
+https://github.com/Victor-Mutuku/Junior-Student-Portal.git
