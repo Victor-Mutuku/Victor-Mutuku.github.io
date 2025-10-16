@@ -1,6 +1,8 @@
 ---
-layout: single
 title: "Projects"
 permalink: /projects/
 ---
-here are my projects
+# Here are my projects
+## Created a student portal in C#,that is CRUD on MVC using depedency injection.
+---
+https://victor-mutuku.github.io/
