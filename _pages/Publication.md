@@ -2,7 +2,6 @@
 title: "Publication"
 permalink: /publication/
 ---
-# Publication
 Here is My Collection:
-🔗 C# MVC Websit
-https://github.com/Victor-Mutuku/Junior-Student-Portal.git
+## C# MVC Website on CRUD.I Created a Student Portal.
+🔗link to my code:https://github.com/Victor-Mutuku/Junior-Student-Portal.git
