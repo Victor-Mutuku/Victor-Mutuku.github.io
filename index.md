@@ -18,7 +18,10 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 ## 🎓 Education
 
 -  **Machakos University**  
-  **Bachelor of Science in Statistics and Programming**  
+  **Bachelor of Science in Statistics and Programming**
+
+   **St Paul's Boys High School**
+   **Kenya Certificate of Secondary Education**
 
 ---
 
