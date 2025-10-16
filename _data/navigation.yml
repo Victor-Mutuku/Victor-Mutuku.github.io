@@ -1,6 +1,8 @@
 main:
   - title: "Projects"
     url: /projects/
+   - title: "CV"
+    url: /assets/files/Victor-Mutuku-CV.pdf/
   - title: "Publication"
     url: /publication/
   - title: "Interests"
