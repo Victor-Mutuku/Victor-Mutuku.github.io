@@ -29,8 +29,6 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
   *In Progress (Expected Completion: End of November 2025)*  
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
 
----
-
 ## 💻 Skills & Expertise
 
 -  **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI  
