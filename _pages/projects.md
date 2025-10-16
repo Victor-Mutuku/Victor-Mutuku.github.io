@@ -5,4 +5,4 @@ permalink: /projects/
 # Here are my projects
 ## Created a student portal in C#,that is CRUD on MVC using depedency injection.
 ---
-https://victor-mutuku.github.io/
+  [🔗 View Code on GitHub](https://github.com/Victor-Mutuku/data-dashboard)
