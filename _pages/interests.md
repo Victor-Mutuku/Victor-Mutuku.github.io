@@ -2,7 +2,6 @@
 title: "Interests"
 permalink: /interests/
 ---
-## 🎯 Interests
 
 ### 💡 Data Science
 Exploring insights from data through analytics, visualization, and machine learning.
