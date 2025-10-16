@@ -9,6 +9,6 @@ Feel free to reach out — I’d love to connect!
 ---
 
 - 📞 **Phone:** [ +254 797 645 912 ](tel:+254797645912)  
-- ✉️ **Email:** [vkiokomutuku@gmail.com](mailto:vkiokomutuku@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/victormutuku)  
-- 🐙 **GitHub:** [github.com/Victor-Mutuku](https://github.com/Victor-Mutuku)
+- ✉️ **Email:** (mailto:vkiokomutuku@gmail.com)  
+- 💼 **LinkedIn:** (https://linkedin.com/in/victormutuku)  
+- 🐙 **GitHub:** (https://github.com/Victor-Mutuku)
