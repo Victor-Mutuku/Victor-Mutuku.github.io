@@ -43,7 +43,7 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 
 - ## 📫 Connect With Me
 
-- ☎️ **Phone:**  +254797645912
+- ☎️ **Phone:**  [+254797645912](tel:+254797645912)
 - ✉️ [Email Me](mailto:vkiokomutuku@gmail.com)
 
 ---
