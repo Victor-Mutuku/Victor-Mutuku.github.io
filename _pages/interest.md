@@ -1,5 +1,8 @@
-title: "Interests"
-layout: posts
-permalink: /interest/
-author_profile: true
 ---
+title: "Interests"
+permalink: /interest/
+---
+## Data Science
+## Web Development
+## Tech Innovation
+## Community Service
