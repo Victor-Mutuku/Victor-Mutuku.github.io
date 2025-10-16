@@ -40,14 +40,4 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 -  **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Tableau
 
 ---
-
-## 📫 Connect With Me
-
-📞 **Phone:** [ +254 797 645 912 ](tel:+254797645912)  
-✉️ [Email Me](mailto:vkiokomutuku@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/victormutuku)  
-🐙 [GitHub](https://github.com/Victor-Mutuku)
-
----
-
 > 🌟 *“Turning data into insight and code into impact.”*
