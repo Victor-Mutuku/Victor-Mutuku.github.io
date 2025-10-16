@@ -32,12 +32,6 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 
 ---
 
-## 🚀 Projects
-
----
-
-## 📫 Connect With Me
-
 - ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
