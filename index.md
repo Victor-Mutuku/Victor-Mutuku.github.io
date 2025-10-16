@@ -43,8 +43,7 @@ I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **softwar
 
 - ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐙 [GitHub](https://github.com/Victor-Mutuku)  
+- ☎️ **Phone:**  +254797645912
 - ✉️ [Email Me](mailto:vkiokomutuku@gmail.com)
 
 ---
