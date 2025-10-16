@@ -1,6 +1,6 @@
 ---
 title: "Interests"
-permalink: /interest/
+permalink: /interests/
 ---
 ## 🎯 Interests
 
