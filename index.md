@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 layout: home
 title: "Victor Mutuku"
-author_profile: false
+author_profile: true
 ---
 ---
 ## 👋 About Me
