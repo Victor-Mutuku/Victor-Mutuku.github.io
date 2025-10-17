@@ -9,4 +9,5 @@ Feel free to reach out — I’d love to connect!
 ✉️ [Email Me](mailto:vkiokomutuku@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/victormutuku)  
 🐙 [GitHub](https://github.com/Victor-Mutuku)
+✉️ **Email:** [vkiokomutuku@gmail.com](mailto:vkiokomutuku@gmail.com) 
 ---
