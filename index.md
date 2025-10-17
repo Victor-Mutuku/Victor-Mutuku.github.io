@@ -7,19 +7,19 @@ author_profile: true
 layout: home
 title: "Victor Mutuku"
 author_profile: true
----
----
+
+
 ## 👋 About Me
 
 I am a dedicated and ambitious **data analyst** with skills in **software development**. Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.
 
----
+
 
 ## 🎓 Education  
 
   **Bachelor of Science in Statistics and Programming**   
   
- --- 
+ 
  ## 🏅 Certifications
    
 - 🎓 **Data and AI Program — Cyber Shujaa Initiative**  
