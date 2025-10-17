@@ -20,12 +20,11 @@ I am a dedicated and ambitious **data analyst** with skills in **software develo
   **Bachelor of Science in Statistics and Programming**   
   
  --- 
-  ## 🏅 Certifications
+ ## 🏅 Certifications
    
 - 🎓 **Data and AI Program — Cyber Shujaa Initiative**  
   *In Progress (Expected Completion: End of November 2025)*  
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
-  ---
 
 ## 💻 Skills & Expertise
 
