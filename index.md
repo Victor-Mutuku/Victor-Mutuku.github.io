@@ -11,7 +11,7 @@ author_profile: true
 ---
 ## 👋 About Me
 
-I am a dedicated and ambitious **data analyst** and **software developer**. Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring a strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.
+I am a dedicated and ambitious **data analyst** with skills in software development. Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring a strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.
 
 ---
 
