@@ -11,17 +11,14 @@ author_profile: true
 ---
 ## 👋 About Me
 
-I am **Victor Mutuku**, a dedicated and ambitious **data analyst** and **software developer** with a **BSc in Statistics and Programming** from **Machakos University**.Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring a strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.
+I am a dedicated and ambitious **data analyst** and **software developer** with a **BSc in Statistics and Programming** from **Machakos University**.Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring a strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
--  **Machakos University**  
-  **Bachelor of Science in Statistics and Programming**
-
--  **St Paul's Boys High School**  
-  **Kenya Certificate of Secondary Education**
+  **Bachelor of Science in Statistics and Programming**  
+  
    
    ## 🏅 Certifications
    
