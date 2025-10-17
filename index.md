@@ -18,7 +18,7 @@ I am a dedicated and ambitious **data analyst** with skills in **software develo
 ## 🎓 Education  
 
   **Bachelor of Science in Statistics and Programming**   
-  
+ --- 
   ## 🏅 Certifications
    
 - 🎓 **Data and AI Program — Cyber Shujaa Initiative**  
