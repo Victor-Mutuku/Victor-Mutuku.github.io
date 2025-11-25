@@ -25,8 +25,9 @@ I am a dedicated and ambitious **data analyst** with skills in **software develo
 
 -  **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI ,Tableau
 -  **Machine Learning & AI:**
-   *Frameworks:* TensorFlow, Keras
-   *Domains:* Predictive Modeling, Classical Machine Learning, Deep Learning, Natural Language Processing(NLP)
+   -*Frameworks:* TensorFlow, Keras, Scikit-learn
+   -*Domains:* Predictive Modeling, Classical Machine Learning, Deep Learning, Natural Language Processing(NLP),Hyperparameter Tuning,          Data Preprocessing, Feature Engineering
+    -*Deep Learning Concepts:*ANN, Activation Functions (ReLU, Softmax), Dropout, Backpropagation
 -  **Programming:** Python, C#, HTML/CSS  
 -  **System Administration:** Linux/Windows server management, networking, troubleshooting  
 -  **Other Skills:** Data visualization, automation, process optimization, technical support  
