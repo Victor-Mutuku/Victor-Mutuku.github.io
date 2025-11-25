@@ -18,16 +18,19 @@ I am a dedicated and ambitious **data analyst** with skills in **software develo
 ## 🏅 Certifications
    
 - 🎓 **Data and AI Program — Cyber Shujaa Initiative**  
-  *In Progress (Expected Completion: End of November 2025)*  
+  *In Progress (Expected Completion: End in Mid-December 2025)*  
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
 
 ## 💻 Skills & Expertise
 
--  **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI  
+-  **Data Analysis:** Python (Pandas, NumPy), Excel, SQL, Power BI ,Tableau
+-  **Machine Learning & AI:**
+   *Frameworks:* TensorFlow, Keras
+   *Domains:* Predictive Modeling, Classical Machine Learning, Deep Learning, Natural Language Processing(NLP)
 -  **Programming:** Python, C#, HTML/CSS  
 -  **System Administration:** Linux/Windows server management, networking, troubleshooting  
 -  **Other Skills:** Data visualization, automation, process optimization, technical support  
--  **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Tableau
+-  **Tools & Technologies:** Git, Jupyter Notebook,Microsoft Visual Studio, PowerShell, Visual Studio Code
 
 ---
 > 🌟 *“Turning data into insight and code into impact.”*
