@@ -9,7 +9,7 @@ author_profile: true
 
 ## 👋 About Me  
 
-I am a dedicated and ambitious **data analyst** with skills in **software development**. Passionate about leveraging technology to solve real-world problems and enhance user experiences, I bring strong attention to detail to **streamline processes** and **improve service delivery**. My goal is to contribute to **innovative solutions** that create value and drive efficiency.  
+Analytical and detail-oriented **Data Scientist** with strong skills in **machine learning, deep learning, exploratory data analysis, and end-to-end ML pipeline development**. Experienced with Python, Scikit-learn, TensorFlow/Keras, and data visualization. Completed multiple real-world projects including predictive modeling, ANN image classification, regression modeling with hyperparameter tuning, and large-scale data cleaning. Passionate about building reproducible workflows and applying AI to solve meaningful business problems.  
 
 ## 🎓 Education  
 
