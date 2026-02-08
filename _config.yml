@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Victor Mutuku"
   avatar : "/assets/images/DSC_0142.jpg"
-  bio    : "*I create and design data-driven solutions, turning data into insights using analytics, machine learning, and AI.*"
+  bio    : "*I create data-driven solutions, turning data into insights with analytics, machine learning, and AI.*"
   links:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
