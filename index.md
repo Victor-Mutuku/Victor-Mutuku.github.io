@@ -17,8 +17,8 @@ Analytical and detail-oriented **Data Scientist** with strong skills in **machin
   
 ## 🏅 Certifications
    
-- 🎓 **Data and AI Program — Cyber Shujaa Initiative**  
-  *In Progress (Expected Completion: End in Mid-December 2025)*  
+- 🎓 **Data and AI Specialist — Cyber Shujaa & United States International University (USIU)**  
+  *In Progress (passed; certification expected April 2026))*  
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
 
 ## 💻 Skills & Expertise
