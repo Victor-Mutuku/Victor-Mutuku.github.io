@@ -9,7 +9,7 @@ author_profile: true
 
 ## 👋 About Me  
 
-Analytical and detail-oriented Data Scientist with hands-on experience in **machine learning, deep learning, exploratory data analysis, and end-to-end ML pipeline development. Skilled in Python, Scikit-learn, TensorFlow/Keras, and data visualization**, with a track record of completing real-world projects including predictive modeling, ANN image classification, regression with hyperparameter tuning, and large-scale data cleaning. Passionate about building reproducible workflows and leveraging AI to solve meaningful business problems, I thrive on turning complex datasets into actionable insights..  
+Analytical and detail-oriented Data Scientist with hands-on experience in **machine learning, deep learning, exploratory data analysis, and end-to-end ML pipeline development. Skilled in Python, Scikit-learn, TensorFlow/Keras, and data visualization**, with a track record of completing real-world projects including predictive modeling, ANN image classification, regression with hyperparameter tuning, and large-scale data cleaning. Passionate about building reproducible workflows and leveraging AI to solve meaningful business problems, I thrive on turning complex datasets into actionable insights. 
 
 ## 🎓 Education  
 
