@@ -16,5 +16,4 @@ permalink: /projects/
 
  I wrangled the Netflix dataset by exploring its structure, converting and restructuring key fields, handling duplicates and missing values, fixing logical errors,  and removing anomalies
  
-  [🔗 View Code](https://github.com/Victor-Mutuku/Netflix-Dataset--Data-Wrangling)
-  ---
+  [🔗 View Code](https://github.com/Victor-Mutuku/Netflix-Dataset--Data-Wrangling/blob/main/Data-wrangling.ipynb)
