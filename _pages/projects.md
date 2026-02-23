@@ -8,12 +8,9 @@ permalink: /projects/
   [🔗 View Code on GitHub](https://github.com/Victor-Mutuku/Junior-Student-Portal.git)
   
 
-## (2).Web Scraping and Data Handling in Python From Web url
+## (2).Streamlit home predictor(KNN based end-to-end ML pipeline) 
 
-I cleaned the data, and organized it into a pandas DataFrame
-
- [🔗 View Code](https://colab.research.google.com/drive/14nJUrfQ7MkBUJNrjeQy4EuQl7ZMv9u2d?usp=sharing)
- 
+ [🔗 View Code](
  
 ## (3).Netflix Data Wrangling in Python
 
