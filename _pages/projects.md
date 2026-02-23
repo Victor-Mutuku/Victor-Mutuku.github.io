@@ -12,8 +12,8 @@ permalink: /projects/
 
  [🔗 View Code](https://github.com/Victor-Mutuku/Streamlit-home-value-predictor-KNN-Based-End-to-end-ML-pipeline)
  
-## (3).Netflix Data Wrangling in Python
+## (3).Netflix Data Wrangling in Python.
 
- I wrangled the Netflix dataset by exploring its structure, converting and restructuring key fields, handling duplicates and missing values, fixing logical errors,  and removing anomalies
+ I wrangled the Netflix dataset by exploring its structure, converting and restructuring key fields, handling duplicates and missing values, fixing logical errors,  and removing anomalies.
  
   [🔗 View Code](https://github.com/Victor-Mutuku/Netflix-Dataset--Data-Wrangling/blob/main/Data-wrangling.ipynb)
