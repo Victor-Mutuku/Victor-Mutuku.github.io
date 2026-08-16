@@ -18,15 +18,15 @@ Analytical and detail-oriented Data Scientist with hands-on experience in **mach
 ## 🏅 Certifications
    
 - 🎓 **Data and AI Specialist - Cyber Shujaa & United States International University (USIU)**
-  *Completed, 2025*
+  *Completed, 2025*   
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
-
+  
 - 📊 **Data Analytics Training - ICT Authority & Sigma Digital Technical Institute**
-  *Completed, 2026*
+  *Completed, 2026*   
   Covered data manipulation, data cleaning, and preparing datasets for analysis.
 
 - 🤖 **Foundational AI Training - ICT Authority**
-  *Completed, 2025*
+  *Completed, 2025*   
   Covered the ethics and foundational principles of artificial intelligence.
 
 - 🐍 **Python for Data Analysis - Udemy**
