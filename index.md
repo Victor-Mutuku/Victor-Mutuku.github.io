@@ -18,7 +18,7 @@ Analytical and detail-oriented Data Scientist with hands-on experience in **mach
 ## 🏅 Certifications
    
 - 🎓 **Data and AI Specialist - Cyber Shujaa & United States International University (USIU)**
-  *Completed, 2026*
+  *Completed, 2025*
   Focused on data analytics, machine learning, and artificial intelligence for real-world applications.
 
 - 📊 **Data Analytics Training - ICT Authority & Sigma Digital Technical Institute**
