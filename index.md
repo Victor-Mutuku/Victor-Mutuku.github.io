@@ -26,11 +26,11 @@ Analytical and detail-oriented Data Scientist with hands-on experience in **mach
   Covered data manipulation, data cleaning, and preparing datasets for analysis.
 
 - 🤖 **Foundational AI Training - ICT Authority**
-  *Completed, 2025*   
+  *Completed, 2025*     
   Covered the ethics and foundational principles of artificial intelligence.
 
 - 🐍 **Python for Data Analysis - Udemy**
-  *Completed, 2025*
+  *Completed, 2025*   
   Covered data manipulation, data visualization, and core Python analysis workflows.
   
 ## 💻 Skills & Expertise
